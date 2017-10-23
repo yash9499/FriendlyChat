@@ -1,11 +1,11 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.google.firebase.udacity.friendlychat.test;
+package com.google.firebase.friendlychat;
 
 public final class BuildConfig {
   public static final boolean DEBUG = Boolean.parseBoolean("true");
-  public static final String APPLICATION_ID = "com.google.firebase.udacity.friendlychat.test";
+  public static final String APPLICATION_ID = "com.google.firebase.friendlychat";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
   public static final int VERSION_CODE = 1;

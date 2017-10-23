@@ -2,7 +2,7 @@
 manifest
 ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:3:5-55
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
 		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
 	android:versionName

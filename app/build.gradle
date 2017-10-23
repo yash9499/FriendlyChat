@@ -12,7 +12,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "com.google.firebase.udacity.friendlychat"
+        applicationId "com.google.firebase.friendlychat"
         minSdkVersion 16
         targetSdkVersion 24
         versionCode 1

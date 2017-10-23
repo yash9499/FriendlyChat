@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.google.firebase.udacity.friendlychat.test">
+    package="com.google.firebase.friendlychat.test">
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.google.firebase.udacity.friendlychat"
+                     android:targetPackage="com.google.firebase.friendlychat"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.google.firebase.udacity.friendlychat"/>
+                     android:label="Tests for com.google.firebase.friendlychat"/>
 </manifest>
