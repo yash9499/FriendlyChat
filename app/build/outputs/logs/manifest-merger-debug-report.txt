@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:24.2.0] /home/pablo/.android/build-cache/1580824c1c5637f06787fe7aaee5ee9783a0f366/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/pablo/.android/build-cache/ea77de5c13446e80d80095c802fd4a04107cec81/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/pablo/.android/build-cache/d59fa251d88168c12447abb4da78f218098aec38/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/pablo/.android/build-cache/7338899817ebcac351c5bfbf013eab2c70430765/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.2.0] /home/pablo/.android/build-cache/7dfcb25d015faec6ad26b4c656098e0da33959a2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.0] /home/pablo/.android/build-cache/458c3a9ddae6673c56c952cd7b8e1d96a7506485/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/pablo/.android/build-cache/25a09484fa0152d5bb99831c77e8e738b7b05ce3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/pablo/.android/build-cache/68b97dd99d7301487bffd18e90c206b64299cc05/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/pablo/.android/build-cache/e69e7a92b9377aaba3afdbb1fb509771d89091cc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.0] /home/pablo/.android/build-cache/3e27b4c695b3e03b009a4ab9401e075c6dfe7a3a/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.google.firebase.udacity.friendlychat.MainActivity
+ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:11:19-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.0] /home/pablo/.android/build-cache/1580824c1c5637f06787fe7aaee5ee9783a0f366/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.0] /home/pablo/.android/build-cache/9e6b099e417b3c745dc78546c67ba383d6f06403/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.0] /home/pablo/.android/build-cache/ea77de5c13446e80d80095c802fd4a04107cec81/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.0] /home/pablo/.android/build-cache/d59fa251d88168c12447abb4da78f218098aec38/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.0] /home/pablo/.android/build-cache/7338899817ebcac351c5bfbf013eab2c70430765/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.2.0] /home/pablo/.android/build-cache/7dfcb25d015faec6ad26b4c656098e0da33959a2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.0] /home/pablo/.android/build-cache/458c3a9ddae6673c56c952cd7b8e1d96a7506485/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:24.2.0] /home/pablo/.android/build-cache/25a09484fa0152d5bb99831c77e8e738b7b05ce3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:24.2.0] /home/pablo/.android/build-cache/68b97dd99d7301487bffd18e90c206b64299cc05/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.0] /home/pablo/.android/build-cache/e69e7a92b9377aaba3afdbb1fb509771d89091cc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.0] /home/pablo/.android/build-cache/3e27b4c695b3e03b009a4ab9401e075c6dfe7a3a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.0] /home/pablo/.android/build-cache/ea77de5c13446e80d80095c802fd4a04107cec81/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pablo/AndroidStudioProjects/and-nd-firebase/app/src/main/AndroidManifest.xml
